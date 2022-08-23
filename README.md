@@ -1,3 +1,5 @@
-Aplicação Simples em Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no Heroku para exercitar uma Pipeline DevOps
+Aplicação Simples em Python/Flask com teste usando Unit Test integrado ao GitHub Actions fazendo deploy no Heroku para exercitar uma Pipeline DevOps
 
-[![Build Status](https://app.travis-ci.com/t-moedano/devopslab.svg?branch=main)](https://app.travis-ci.com/t-moedano/devopslab)
+
+![Status Atual do Build](https://github.com/t-moedano/devopslab/actions/workflows/pipeline.yml/badge.svg)
+
