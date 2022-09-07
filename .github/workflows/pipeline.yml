@@ -1,6 +1,6 @@
 jobs:
   Tests:
-   name: Tests
+    name: Tests
     runs-on: ubuntu-latest
     steps:
       - name: Setup Python
